@@ -41,9 +41,9 @@ export default function Home() {
                 <Phone className="w-4 h-4" />
                 <span>Louay: 514-497-7190</span>
               </a>
-              <a href="mailto:syrcuisine@gmail.com" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
-                <Mail className="w-4 h-4" />
-                syrcuisine@gmail.com
+              <a href="mailto:info@syrcuisine.com" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
+                <Mail className="w-5 h-5" />
+                info@syrcuisine.com
               </a>
             </div>
           </div>

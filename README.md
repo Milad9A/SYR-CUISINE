@@ -113,7 +113,7 @@ Current contact info:
 
 - **Elia**: 514-238-8886
 - **Louay**: 514-497-7190
-- **Email**: <syrcuisine@gmail.com>
+- **Email**: <info@syrcuisine.com>
 - **Location**: Montreal, Quebec
 
 ### Setting Up Contact Form
@@ -147,7 +147,7 @@ The contact form currently shows a demo. To enable real submissions:
 
 ## Contact
 
-- Email: <syrcuisine@gmail.com>
+- Email: <info@syrcuisine.com>
 - Elia: 514-238-8886
 - Louay: 514-497-7190
 

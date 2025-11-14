@@ -101,8 +101,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-lg mb-1">{t('info.email')}</h3>
-                    <a href="mailto:syrcuisine@gmail.com" className="text-gray-600 hover:text-blue-600">
-                      syrcuisine@gmail.com
+                    <a href="mailto:info@syrcuisine.com" className="text-gray-600 hover:text-blue-600">
+                      info@syrcuisine.com
                     </a>
                   </div>
                 </div>

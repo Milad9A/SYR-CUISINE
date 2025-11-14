@@ -1,0 +1,289 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "gallery": "Gallery",
+        "contact": "Contact"
+    },
+    "home": {
+        "hero": {
+            "title": "Transform Your Kitchen with",
+            "brand": "SYR CUISINE",
+            "subtitle": "Custom Architectural & Commercial Kitchen Solutions in Montreal",
+            "quoteButton": "Get Free Quote",
+            "galleryButton": "View Our Work"
+        },
+        "whyChoose": {
+            "title": "Why Choose SYR CUISINE?",
+            "subtitle": "We combine craftsmanship, quality materials, and innovative design to create kitchens that last.",
+            "quality": {
+                "title": "Premium Quality Materials",
+                "description": "Durable, high-quality materials and expert craftsmanship for long-lasting kitchen installations."
+            },
+            "custom": {
+                "title": "Custom Design Solutions",
+                "description": "Tailored designs that match your vision, space, and lifestyle requirements perfectly."
+            },
+            "expert": {
+                "title": "Expert Installation",
+                "description": "Professional installation by experienced craftsmen ensuring precision and quality workmanship."
+            }
+        },
+        "services": {
+            "title": "Our Services",
+            "subtitle": "Comprehensive kitchen solutions from design to installation",
+            "design": {
+                "title": "Kitchen Design",
+                "description": "Modern & functional kitchen layouts"
+            },
+            "cabinets": {
+                "title": "Custom Cabinets",
+                "description": "Custom cabinetry solutions"
+            },
+            "airbrushing": {
+                "title": "Airbrushing",
+                "description": "Professional painting & finishing"
+            },
+            "renovation": {
+                "title": "Full Renovation",
+                "description": "Complete kitchen transformation"
+            },
+            "learnMore": "Learn More About Our Services"
+        },
+        "cta": {
+            "title": "Ready to Transform Your Kitchen?",
+            "subtitle": "Get a free consultation and quote today",
+            "button": "Contact Us Now"
+        }
+    },
+    "about": {
+        "hero": {
+            "title": "About SYR CUISINE",
+            "subtitle": "Your trusted partner for custom kitchen solutions in Montreal"
+        },
+        "story": {
+            "title": "Our Story",
+            "p1": "SYR CUISINE is a family-owned business built on a passion for quality craftsmanship and customer satisfaction. Founded by Elia and Louay, we bring together years of expertise in fabrication and interior design to create stunning kitchen spaces throughout Montreal, Quebec. We also offer professional painting services to complete your project.",
+            "p2": "We specialize in custom architectural and commercial work, including kitchen cabinets, countertops, and complete kitchen renovations. Our commitment to using premium materials and modern design principles ensures that every kitchen we create is not only beautiful but also durable and functional.",
+            "p3": "What sets us apart is our dedication to understanding each client's unique needs and vision. We work closely with homeowners to design and install kitchens that perfectly match their lifestyle, preferences, and budget."
+        },
+        "whyChoose": {
+            "title": "Why Choose Us",
+            "quality": {
+                "title": "Quality First",
+                "description": "We use only premium materials to ensure lasting quality in every project."
+            },
+            "family": {
+                "title": "Family Owned",
+                "description": "As a family business, we treat every project with personal care and attention."
+            },
+            "expert": {
+                "title": "Expert Craftsmanship",
+                "description": "Years of experience in fabrication and kitchen installation."
+            },
+            "customer": {
+                "title": "Customer Focused",
+                "description": "Your satisfaction is our priority. We work with you every step of the way."
+            }
+        },
+        "team": {
+            "title": "Meet Our Team",
+            "elia": {
+                "name": "Elia",
+                "role": "Co-Founder & Design Specialist",
+                "description": "Expert in kitchen design and fabrication with a keen eye for modern aesthetics and functionality."
+            },
+            "louay": {
+                "name": "Louay",
+                "role": "Co-Founder & Installation Expert",
+                "description": "Specialized in precision installation and project management, ensuring every detail meets the highest standards."
+            }
+        },
+        "cta": {
+            "title": "Ready to Work With Us?",
+            "subtitle": "Let's create your dream kitchen together",
+            "button": "Get In Touch"
+        }
+    },
+    "services": {
+        "hero": {
+            "title": "Our Services",
+            "subtitle": "Comprehensive kitchen solutions tailored to your needs"
+        },
+        "list": {
+            "design": {
+                "title": "Custom Kitchen Design",
+                "description": "We work with you to create a kitchen design that perfectly matches your vision, space, and lifestyle needs.",
+                "features": [
+                    "3D design visualization",
+                    "Space optimization",
+                    "Material selection guidance",
+                    "Color scheme consultation",
+                    "Ergonomic layout planning"
+                ]
+            },
+            "cabinets": {
+                "title": "Custom Cabinet Fabrication",
+                "description": "Premium custom cabinets that are durable, functional, and designed to meet your specific needs.",
+                "features": [
+                    "Custom sizes and configurations",
+                    "Modern finishes and colors",
+                    "Soft-close mechanisms",
+                    "Adjustable shelving",
+                    "Quality materials"
+                ]
+            },
+            "countertops": {
+                "title": "Countertop Installation",
+                "description": "Professional installation of various countertop materials to complement your kitchen design.",
+                "features": [
+                    "Quartz countertops",
+                    "Granite options",
+                    "Laminate solutions",
+                    "Custom edge profiles",
+                    "Seamless integration"
+                ]
+            },
+            "renovation": {
+                "title": "Complete Kitchen Renovation",
+                "description": "Full-service kitchen transformation from concept to completion, managing every aspect of your project.",
+                "features": [
+                    "Project management",
+                    "Demolition services",
+                    "Electrical & plumbing coordination",
+                    "Cabinet & countertop installation",
+                    "Final finishing touches"
+                ]
+            },
+            "storage": {
+                "title": "Kitchen Storage Solutions",
+                "description": "Maximize your kitchen space with innovative storage solutions and organizational systems.",
+                "features": [
+                    "Pull-out drawers and organizers",
+                    "Pantry systems",
+                    "Corner cabinet solutions",
+                    "Island storage",
+                    "Wall-mounted options"
+                ]
+            },
+            "painting": {
+                "title": "Painting & Airbrushing",
+                "description": "Professional painting and airbrushing services to complete your kitchen with beautiful finishes.",
+                "features": [
+                    "Custom paint finishes",
+                    "Airbrushing techniques",
+                    "Cabinet refinishing",
+                    "Protective coatings",
+                    "Color matching services"
+                ]
+            },
+            "backsplash": {
+                "title": "Backsplash & Finishing",
+                "description": "Complete your kitchen with beautiful backsplash installation and finishing details.",
+                "features": [
+                    "Tile backsplash installation",
+                    "Glass panel options",
+                    "Custom finishes",
+                    "Trim and molding",
+                    "Hardware installation"
+                ]
+            }
+        },
+        "process": {
+            "title": "Our Process",
+            "step1": {
+                "title": "Consultation & Design",
+                "description": "We meet with you to discuss your vision, take measurements, and create a custom design that fits your needs and budget."
+            },
+            "step2": {
+                "title": "Material Selection",
+                "description": "Choose from our range of premium finishes, materials, and hardware options for your project."
+            },
+            "step3": {
+                "title": "Fabrication",
+                "description": "Our skilled craftsmen fabricate your custom cabinets and components with precision and care."
+            },
+            "step4": {
+                "title": "Professional Installation",
+                "description": "Expert installation ensuring every component fits perfectly and functions flawlessly."
+            },
+            "step5": {
+                "title": "Final Walkthrough",
+                "description": "We inspect every detail with you to ensure complete satisfaction with your new kitchen."
+            }
+        },
+        "cta": {
+            "title": "Ready to Get Started?",
+            "subtitle": "Contact us for a free consultation and quote",
+            "button": "Request a Quote"
+        }
+    },
+    "gallery": {
+        "hero": {
+            "title": "Our Work",
+            "subtitle": "Explore our portfolio of beautiful kitchen transformations"
+        },
+        "filters": {
+            "all": "All Projects",
+            "modern": "Modern",
+            "contemporary": "Contemporary",
+            "traditional": "Traditional"
+        }
+    },
+    "contact": {
+        "hero": {
+            "title": "Contact Us",
+            "subtitle": "Get in touch for a free consultation and quote"
+        },
+        "info": {
+            "title": "Get In Touch",
+            "description": "We'd love to hear about your kitchen project! Contact us today to schedule a consultation or to get answers to any questions you may have.",
+            "phone": "Phone",
+            "email": "Email",
+            "location": "Location",
+            "locationText": "Laval, Quebec",
+            "serviceArea": "Serving the Greater Montreal Area",
+            "hours": "Business Hours",
+            "weekdays": "Monday - Friday:",
+            "weekdaysTime": "8:00 AM - 6:00 PM",
+            "weekends": "Weekends:",
+            "weekendsTime": "Closed"
+        },
+        "form": {
+            "title": "Send Us a Message",
+            "name": "Full Name",
+            "email": "Email Address",
+            "phone": "Phone Number",
+            "message": "Message",
+            "required": "Required fields",
+            "submit": "Send Message",
+            "sending": "Sending...",
+            "success": "Thank you! We'll get back to you shortly.",
+            "error": "Oops! Something went wrong. Please try again or contact us directly.",
+            "placeholder": {
+                "name": "John Doe",
+                "email": "john@example.com",
+                "phone": "514-XXX-XXXX",
+                "message": "Tell us about your project..."
+            }
+        },
+        "map": {
+            "title": "Serving Greater Montreal",
+            "description": "We proudly serve residential and commercial clients throughout the Montreal area. Contact us to discuss your project!"
+        }
+    },
+    "footer": {
+        "description": "Custom architectural and commercial kitchen solutions in Montreal.",
+        "quickLinks": "Quick Links",
+        "services": "Our Services",
+        "servicesList": {
+            "design": "Kitchen Design",
+            "cabinets": "Custom Cabinets",
+            "airbrushing": "Airbrushing & Painting",
+            "renovation": "Full Renovations"
+        },
+        "contact": "Contact Us",
+        "copyright": "SYR CUISINE. All rights reserved."
+    }
+}

@@ -1,0 +1,289 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "about": "À Propos",
+        "services": "Services",
+        "gallery": "Galerie",
+        "contact": "Contact"
+    },
+    "home": {
+        "hero": {
+            "title": "Transformez Votre Cuisine avec",
+            "brand": "SYR CUISINE",
+            "subtitle": "Solutions de Cuisine Architecturales et Commerciales sur Mesure à Montréal",
+            "quoteButton": "Devis Gratuit",
+            "galleryButton": "Voir Nos Réalisations"
+        },
+        "whyChoose": {
+            "title": "Pourquoi Choisir SYR CUISINE?",
+            "subtitle": "Nous combinons l'artisanat, des matériaux de qualité et un design innovant pour créer des cuisines durables.",
+            "quality": {
+                "title": "Matériaux de Qualité Supérieure",
+                "description": "Matériaux durables de haute qualité et artisanat expert pour des installations de cuisine durables."
+            },
+            "custom": {
+                "title": "Solutions de Design Personnalisées",
+                "description": "Des designs sur mesure qui correspondent parfaitement à votre vision, votre espace et votre style de vie."
+            },
+            "expert": {
+                "title": "Installation Experte",
+                "description": "Installation professionnelle par des artisans expérimentés assurant précision et qualité de fabrication."
+            }
+        },
+        "services": {
+            "title": "Nos Services",
+            "subtitle": "Solutions de cuisine complètes de la conception à l'installation",
+            "design": {
+                "title": "Design de Cuisine",
+                "description": "Aménagements modernes et fonctionnels"
+            },
+            "cabinets": {
+                "title": "Armoires sur Mesure",
+                "description": "Solutions d'armoires personnalisées"
+            },
+            "airbrushing": {
+                "title": "Aérographe",
+                "description": "Peinture et finition professionnelles"
+            },
+            "renovation": {
+                "title": "Rénovation Complète",
+                "description": "Transformation complète de cuisine"
+            },
+            "learnMore": "En Savoir Plus Sur Nos Services"
+        },
+        "cta": {
+            "title": "Prêt à Transformer Votre Cuisine?",
+            "subtitle": "Obtenez une consultation et un devis gratuits aujourd'hui",
+            "button": "Contactez-Nous Maintenant"
+        }
+    },
+    "about": {
+        "hero": {
+            "title": "À Propos de SYR CUISINE",
+            "subtitle": "Votre partenaire de confiance pour des solutions de cuisine personnalisées à Montréal"
+        },
+        "story": {
+            "title": "Notre Histoire",
+            "p1": "SYR CUISINE est une entreprise familiale fondée sur une passion pour l'artisanat de qualité et la satisfaction du client. Fondée par Elia et Louay, nous rassemblons des années d'expertise en fabrication et en design d'intérieur pour créer de magnifiques espaces de cuisine à travers Montréal, Québec. Nous offrons également des services de peinture professionnels pour compléter votre projet.",
+            "p2": "Nous nous spécialisons dans les travaux architecturaux et commerciaux personnalisés, y compris les armoires de cuisine, les comptoirs et les rénovations complètes de cuisine. Notre engagement à utiliser des matériaux de qualité supérieure et des principes de design modernes garantit que chaque cuisine que nous créons est non seulement belle, mais aussi durable et fonctionnelle.",
+            "p3": "Ce qui nous distingue, c'est notre dévouement à comprendre les besoins et la vision uniques de chaque client. Nous travaillons en étroite collaboration avec les propriétaires pour concevoir et installer des cuisines qui correspondent parfaitement à leur style de vie, leurs préférences et leur budget."
+        },
+        "whyChoose": {
+            "title": "Pourquoi Nous Choisir",
+            "quality": {
+                "title": "Qualité Avant Tout",
+                "description": "Nous n'utilisons que des matériaux de qualité supérieure pour assurer une qualité durable dans chaque projet."
+            },
+            "family": {
+                "title": "Entreprise Familiale",
+                "description": "En tant qu'entreprise familiale, nous traitons chaque projet avec soin et attention personnels."
+            },
+            "expert": {
+                "title": "Artisanat Expert",
+                "description": "Des années d'expérience en fabrication et installation de cuisine."
+            },
+            "customer": {
+                "title": "Axé sur le Client",
+                "description": "Votre satisfaction est notre priorité. Nous travaillons avec vous à chaque étape."
+            }
+        },
+        "team": {
+            "title": "Notre Équipe",
+            "elia": {
+                "name": "Elia",
+                "role": "Co-Fondateur & Spécialiste du Design",
+                "description": "Expert en design de cuisine et fabrication avec un œil attentif pour l'esthétique moderne et la fonctionnalité."
+            },
+            "louay": {
+                "name": "Louay",
+                "role": "Co-Fondateur & Expert en Installation",
+                "description": "Spécialisé dans l'installation de précision et la gestion de projet, garantissant que chaque détail répond aux normes les plus élevées."
+            }
+        },
+        "cta": {
+            "title": "Prêt à Travailler Avec Nous?",
+            "subtitle": "Créons ensemble la cuisine de vos rêves",
+            "button": "Contactez-Nous"
+        }
+    },
+    "services": {
+        "hero": {
+            "title": "Nos Services",
+            "subtitle": "Solutions de cuisine complètes adaptées à vos besoins"
+        },
+        "list": {
+            "design": {
+                "title": "Design de Cuisine Personnalisé",
+                "description": "Nous travaillons avec vous pour créer un design de cuisine qui correspond parfaitement à votre vision, votre espace et vos besoins de style de vie.",
+                "features": [
+                    "Visualisation 3D du design",
+                    "Optimisation de l'espace",
+                    "Conseils de sélection de matériaux",
+                    "Consultation sur les schémas de couleurs",
+                    "Planification d'aménagement ergonomique"
+                ]
+            },
+            "cabinets": {
+                "title": "Fabrication d'Armoires sur Mesure",
+                "description": "Armoires personnalisées de qualité supérieure qui sont durables, fonctionnelles et conçues pour répondre à vos besoins spécifiques.",
+                "features": [
+                    "Tailles et configurations personnalisées",
+                    "Finitions et couleurs modernes",
+                    "Mécanismes à fermeture douce",
+                    "Étagères ajustables",
+                    "Matériaux de qualité"
+                ]
+            },
+            "countertops": {
+                "title": "Installation de Comptoirs",
+                "description": "Installation professionnelle de divers matériaux de comptoir pour compléter votre design de cuisine.",
+                "features": [
+                    "Comptoirs en quartz",
+                    "Options en granit",
+                    "Solutions en stratifié",
+                    "Profils de bord personnalisés",
+                    "Intégration sans couture"
+                ]
+            },
+            "renovation": {
+                "title": "Rénovation Complète de Cuisine",
+                "description": "Transformation complète de cuisine du concept à l'achèvement, gérant chaque aspect de votre projet.",
+                "features": [
+                    "Gestion de projet",
+                    "Services de démolition",
+                    "Coordination électrique et plomberie",
+                    "Installation d'armoires et comptoirs",
+                    "Touches finales"
+                ]
+            },
+            "storage": {
+                "title": "Solutions de Rangement de Cuisine",
+                "description": "Maximisez l'espace de votre cuisine avec des solutions de rangement innovantes et des systèmes d'organisation.",
+                "features": [
+                    "Tiroirs coulissants et organisateurs",
+                    "Systèmes de garde-manger",
+                    "Solutions d'armoires d'angle",
+                    "Rangement d'îlot",
+                    "Options murales"
+                ]
+            },
+            "painting": {
+                "title": "Peinture et Aérographe",
+                "description": "Services professionnels de peinture et d'aérographe pour compléter votre cuisine avec de belles finitions.",
+                "features": [
+                    "Finitions de peinture personnalisées",
+                    "Techniques d'aérographe",
+                    "Refinition d'armoires",
+                    "Revêtements protecteurs",
+                    "Services d'harmonisation des couleurs"
+                ]
+            },
+            "backsplash": {
+                "title": "Dosseret et Finition",
+                "description": "Complétez votre cuisine avec une belle installation de dosseret et des détails de finition.",
+                "features": [
+                    "Installation de dosseret en carreaux",
+                    "Options de panneaux de verre",
+                    "Finitions personnalisées",
+                    "Garnitures et moulures",
+                    "Installation de quincaillerie"
+                ]
+            }
+        },
+        "process": {
+            "title": "Notre Processus",
+            "step1": {
+                "title": "Consultation & Design",
+                "description": "Nous vous rencontrons pour discuter de votre vision, prendre des mesures et créer un design personnalisé qui correspond à vos besoins et votre budget."
+            },
+            "step2": {
+                "title": "Sélection de Matériaux",
+                "description": "Choisissez parmi notre gamme de finitions, matériaux et options de quincaillerie de qualité supérieure pour votre projet."
+            },
+            "step3": {
+                "title": "Fabrication",
+                "description": "Nos artisans qualifiés fabriquent vos armoires et composants personnalisés avec précision et soin."
+            },
+            "step4": {
+                "title": "Installation Professionnelle",
+                "description": "Installation experte garantissant que chaque composant s'adapte parfaitement et fonctionne parfaitement."
+            },
+            "step5": {
+                "title": "Inspection Finale",
+                "description": "Nous inspectons chaque détail avec vous pour garantir une satisfaction complète avec votre nouvelle cuisine."
+            }
+        },
+        "cta": {
+            "title": "Prêt à Commencer?",
+            "subtitle": "Contactez-nous pour une consultation et un devis gratuits",
+            "button": "Demander un Devis"
+        }
+    },
+    "gallery": {
+        "hero": {
+            "title": "Nos Réalisations",
+            "subtitle": "Explorez notre portfolio de belles transformations de cuisine"
+        },
+        "filters": {
+            "all": "Tous les Projets",
+            "modern": "Moderne",
+            "contemporary": "Contemporain",
+            "traditional": "Traditionnel"
+        }
+    },
+    "contact": {
+        "hero": {
+            "title": "Contactez-Nous",
+            "subtitle": "Contactez-nous pour une consultation et un devis gratuits"
+        },
+        "info": {
+            "title": "Entrer en Contact",
+            "description": "Nous aimerions entendre parler de votre projet de cuisine! Contactez-nous aujourd'hui pour planifier une consultation ou pour obtenir des réponses à toutes vos questions.",
+            "phone": "Téléphone",
+            "email": "Courriel",
+            "location": "Emplacement",
+            "locationText": "Laval, Québec",
+            "serviceArea": "Desservant la Région du Grand Montréal",
+            "hours": "Heures d'Ouverture",
+            "weekdays": "Lundi - Vendredi:",
+            "weekdaysTime": "8h00 - 18h00",
+            "weekends": "Fins de Semaine:",
+            "weekendsTime": "Fermé"
+        },
+        "form": {
+            "title": "Envoyez-Nous un Message",
+            "name": "Nom Complet",
+            "email": "Adresse Courriel",
+            "phone": "Numéro de Téléphone",
+            "message": "Message",
+            "required": "Champs obligatoires",
+            "submit": "Envoyer le Message",
+            "sending": "Envoi en cours...",
+            "success": "Merci! Nous vous répondrons sous peu.",
+            "error": "Oups! Quelque chose s'est mal passé. Veuillez réessayer ou nous contacter directement.",
+            "placeholder": {
+                "name": "Jean Dupont",
+                "email": "jean@exemple.com",
+                "phone": "514-XXX-XXXX",
+                "message": "Parlez-nous de votre projet..."
+            }
+        },
+        "map": {
+            "title": "Desservant le Grand Montréal",
+            "description": "Nous servons fièrement des clients résidentiels et commerciaux dans toute la région de Montréal. Contactez-nous pour discuter de votre projet!"
+        }
+    },
+    "footer": {
+        "description": "Solutions de cuisine architecturales et commerciales personnalisées à Montréal.",
+        "quickLinks": "Liens Rapides",
+        "services": "Nos Services",
+        "servicesList": {
+            "design": "Design de Cuisine",
+            "cabinets": "Armoires sur Mesure",
+            "airbrushing": "Aérographe & Peinture",
+            "renovation": "Rénovations Complètes"
+        },
+        "contact": "Contactez-Nous",
+        "copyright": "SYR CUISINE. Tous droits réservés."
+    }
+}

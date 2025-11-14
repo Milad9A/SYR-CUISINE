@@ -22,7 +22,7 @@ export default function Contact() {
     setSubmitStatus("idle");
     
     try {
-      const response = await fetch("https://formspree.io/f/xgvraakp", {
+      const response = await fetch(`https://formspree.io/f/${process.env.NEXT_PUBLIC_FORMSPREE_ENDPOINT}`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
